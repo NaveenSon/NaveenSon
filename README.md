@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **fullstack development**
 
-- 💬 Ask me about **MEAN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **ns9795970@gmail.com**
 
